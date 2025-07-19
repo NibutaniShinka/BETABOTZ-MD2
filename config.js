@@ -20,7 +20,7 @@ global.lann = 'YOUR_APIKEY_HERE'
 //Daftar terlebih dahulu https://api.betabotz.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.btc = 'YOUR_APIKEY_HERE'
+global.btc = 'API_KEY_BOTCAHX'
 //Daftar https://api.botcahx.eu.org 
 
 global.APIs = {   
